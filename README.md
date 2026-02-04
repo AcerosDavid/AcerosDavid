@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
-Con más de 2 años de experiencia como Desarrollador en Software, estoy en una misión para crear soluciones tecnológicas que conecten el mundo digital con la vida real. Tengo la capacidad de desarrollar tanto en frontend como en backend, lo que me permite aportar mi magia tanto a startups revolucionarias como a grandes proyectos empresariales. Me apasiona escribir código limpio, mantenible y diseñar siempre pensando en el usuario. Disfruto trabajar en entornos que promueven la innovación y el crecimiento profesional continuo. ¡Hagamos que la tecnología brille! 🚀
+Con más de 3 años de experiencia como Desarrollador en Software, estoy en una misión para crear soluciones tecnológicas que conecten el mundo digital con la vida real. Tengo la capacidad de desarrollar tanto en frontend como en backend, lo que me permite aportar mi magia tanto a startups revolucionarias como a grandes proyectos empresariales. Me apasiona escribir código limpio, mantenible y diseñar siempre pensando en el usuario. Disfruto trabajar en entornos que promueven la innovación y el crecimiento profesional continuo. ¡Hagamos que la tecnología brille! 🚀
 
 🔭 Actualmente estoy trabajando en la actualización de sistemas de automatización y una plataforma de inventarios empresarial.
 
