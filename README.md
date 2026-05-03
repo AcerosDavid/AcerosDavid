@@ -3,31 +3,41 @@
 <h1 align="center">👨‍💻 Analista Desarrollador</h1>
 
 <p align="center">
-Apasionado por construir soluciones tecnológicas que conectan el mundo digital con la vida real.
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+Apasionado por construir soluciones tecnológicas que conectan el mundo digital con la vida real 🚀
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🧠 Sobre mí
 
 Cuento con más de 3 años de experiencia como desarrollador de software, enfocado en la creación de soluciones eficientes, escalables y centradas en el usuario.
 
-Tengo la capacidad de desenvolverme tanto en **frontend** como en **backend**, lo que me permite aportar valor en distintas etapas del desarrollo, desde la concepción de la idea hasta su implementación en producción.
+Tengo experiencia en **frontend** y **backend**, lo que me permite participar en todo el ciclo de desarrollo.
 
-Me apasiona escribir código limpio, mantenible y seguir buenas prácticas de desarrollo. Disfruto trabajar en entornos que fomentan la innovación, el aprendizaje continuo y el crecimiento profesional.
-
-💡 Siempre buscando mejorar, optimizar y construir cosas que realmente impacten.
+Me apasiona escribir código limpio, mantenible y aplicar buenas prácticas. Disfruto trabajar en entornos que impulsan la innovación y el crecimiento profesional.
 
 ---
 
-## 🔭 Actualmente
+## 🚀 Actualmente
 
-- Trabajando en la actualización de sistemas de automatización  
-- Desarrollando una plataforma empresarial de gestión de inventarios  
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+- 🔧 Actualizando sistemas de automatización  
+- 📦 Desarrollando plataforma empresarial de inventarios  
 
 ---
 
 ## 🌱 Aprendiendo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+</p>
 
 - Angular  
 - Spring Security  
@@ -35,36 +45,19 @@ Me apasiona escribir código limpio, mantenible y seguir buenas prácticas de de
 
 ---
 
-## 💬 Tecnologías y temas
+## 💬 Stack Tecnológico
 
-Puedes preguntarme sobre:
+### 🖥️ Frontend
+HTML · CSS · Sass · Bootstrap · JavaScript · TypeScript · React  
 
-**Frontend**
-- HTML, CSS, Sass, Bootstrap  
-- JavaScript, TypeScript  
-- React  
+### ⚙️ Backend
+PHP · Laravel · Lumen · C# · .NET · Java · Spring Boot  
 
-**Backend**
-- PHP, Lumen, Laravel  
-- C#, .NET  
-- Java, Spring Boot  
+### ☁️ Cloud & DevOps
+GCP · GKE · GCE · CI/CD · Docker · Kubernetes  
 
-**Cloud & DevOps**
-- Google Cloud Platform (GCP)  
-- GKE, GCE  
-- CI/CD  
-- Docker, Kubernetes  
-
-**Metodologías**
-- Scrum  
-- TDD (Test Driven Development)  
-- DDD (Domain Driven Design)  
-
----
-
-## ⚡ Dato curioso
-
-Me parezco a un hobbit 🧙‍♂️ (pero en vez de anillos, colecciono bugs… y los elimino 😄)
+### 🧪 Metodologías
+Scrum · TDD · DDD  
 
 ---
 
@@ -100,7 +93,7 @@ Me parezco a un hobbit 🧙‍♂️ (pero en vez de anillos, colecciono bugs…
 </tr>
 
 <tr>
-<td><b>Pruebas Automatizadas:</b></td>
+<td><b>Pruebas:</b></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/>
 </td>
@@ -121,32 +114,20 @@ Me parezco a un hobbit 🧙‍♂️ (pero en vez de anillos, colecciono bugs…
 </tr>
 
 <tr>
-<td><b>Otras Herramientas:</b></td>
+<td><b>Otros:</b></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/>
-</td>
-</tr>
-
-<tr>
-<td><b>Sistemas Operativos:</b></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📈 Enfoque profesional
+## 🔄 Flujo de Trabajo
 
-- Código limpio y mantenible  
-- Arquitecturas escalables  
-- Buenas prácticas (SOLID, Clean Code)  
-- Enfoque en experiencia de usuario (UX)  
-- Trabajo en equipo y comunicación efectiva  
-
----
-
-## 🤝 Conectemos
-
-Siempre abierto a colaborar en proyectos interesantes o retos tecnológicos.
+```mermaid
+graph LR
+A[Idea 💡] --> B[Diseño 🎨]
+B --> C[Desarrollo 💻]
+C --> D[Pruebas 🧪]
+D --> E[Deploy 🚀]
